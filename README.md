@@ -2,9 +2,9 @@
 
 ## Azure AI Keynote
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 1](https://github.com/trojenguri/LaligaBot)
+[BRK2006 Azure AI: Powering AI for every developer and every organization - LaLiga Demo](https://github.com/trojenguri/LaligaBot)
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 2](https://github.com/buildaidemos/demos/tree/master/walgreens-boots-demo)
+[BRK2006 Azure AI: Powering AI for every developer and every organization - Walgreens Boots Alliance demo](https://github.com/buildaidemos/demos/tree/master/walgreens-boots-demo)
 
 ## Machine Learning - Azure Machine Learning service
 
