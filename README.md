@@ -8,7 +8,7 @@
 
 [BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning](https://github.com/microsoft/)
 
-[BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://github.com/microsoft/)
+[BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
 
 [BRK3010 Managing your ML lifecycle with Azure Databricks and Azure ML](https://github.com/microsoft/)
 
