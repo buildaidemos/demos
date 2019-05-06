@@ -2,8 +2,6 @@
 
 ## Azure Machine Learning
 
-[BRK3008 Build “zero code” machine learning models with visual workflow capabilities in Azure Machine Learning service](https://github.com/microsoft/)
-
 [BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/microsoft/)
 
 [BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning](https://github.com/microsoft/)
