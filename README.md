@@ -35,7 +35,9 @@
 
 [BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/trojenguri/LaligaBot)
 
-[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services](https://github.com/microsoft/)
+[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services 1](https://github.com/Azure/mmlspark)
+
+[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services 2](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 [BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
 
