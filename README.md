@@ -18,7 +18,7 @@
 
 [BRK3013 How to build enterprise ready ML: Privacy and Security best practices, in the cloud and on the edge](https://github.com/microsoft/)
 
-[BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/microsoft/)
+[BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
 
 ## Azure Search
 
