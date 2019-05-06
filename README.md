@@ -10,17 +10,9 @@
 
 [BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/Microsoft/MLOps)
 
-[BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning]
-
 [BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
 
-[BRK3010 Managing your ML lifecycle with Azure Databricks and Azure ML]
-
 [BRK3011 Welcome to the world of Machine Learning with ML.NET 1.0](https://github.com/dotnet/machinelearning-samples)
-
-[BRK3012: Open Neural Network Exchange (ONNX) in the enterprise: how Microsoft scales ML across the world and across devices]
-
-[BRK3013 How to build enterprise ready ML: Privacy and Security best practices, in the cloud and on the edge]
 
 [BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
 
@@ -29,8 +21,6 @@
 [BRK2003 Designing AI Responsibly - Link 2](https://github.com/microsoft/seal-demo)
 
 ## Knowledge Mining - Azure Search and Form Recognizer
-
-[BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services]
 
 [BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI](https://formdemoux.azurewebsites.net/)
 
@@ -50,9 +40,3 @@
 [BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services - Link 2](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 [BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
-
-[BRK3006 What’s new in Speech Services and how to utilize them to build speech-enabled scenarios and solutions]
-
-[BRK4001 Your Brand, Your Assistant - How to build your own voice-first Virtual Assistant]
-
-[BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer]
