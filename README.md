@@ -37,7 +37,7 @@
 
 [BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services](https://github.com/microsoft/)
 
-[BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/microsoft/)
+[BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
 
 [BRK3006 What’s new in Speech Services and how to utilize them to build speech-enabled scenarios and solutions](https://github.com/microsoft/)
 
