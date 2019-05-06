@@ -1,6 +1,10 @@
 # Microsoft Build 2019 - AI Track Demos And Other Useful Resources
 
-## Azure Machine Learning
+## Azure AI Keynote
+
+[BRK2006 Azure AI: Powering AI for every developer and every organization](https://github.com/microsoft/)
+
+## Machine Learning - Azure Machine Learning service
 
 [BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/microsoft/)
 
@@ -18,7 +22,7 @@
 
 [BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
 
-## Azure Search
+## Knowledge Mining - Azure Search and Form Recognizer
 
 [BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services](https://github.com/microsoft/)
 
@@ -31,7 +35,7 @@
 [BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](http://aka.ms/build2019kmdemo)
 
 
-## Azure Cognitive Services and Azure Bot Service 
+## AI apps and agents - Azure Cognitive Services and Azure Bot Service 
 
 [BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/trojenguri/LaligaBot)
 
