@@ -26,9 +26,11 @@
 
 [BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI](https://github.com/microsoft/)
 
-[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry](https://github.com/microsoft/)
+[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 1](aka.ms/KmSolutions)
 
-[BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](https://github.com/microsoft/)
+[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 2](https://aka.ms/seazcs)
+
+[BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](https://github.com/liamca/build2019aidemos)
 
 
 ## Azure Cognitive Services and Azure Bot Service 
