@@ -2,9 +2,9 @@
 
 ## Azure AI Keynote
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization 1](https://github.com/trojenguri/LaligaBot)
+[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 1](https://github.com/trojenguri/LaligaBot)
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization 2]
+[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 2]
 
 ## Machine Learning - Azure Machine Learning service
 
@@ -24,15 +24,19 @@
 
 [BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
 
+[BRK2003 Designing AI Responsibly - Link 1](https://github.com/microsoft/interpret)
+
+[BRK2003 Designing AI Responsibly - Link 2](https://github.com/microsoft/seal-demo)
+
 ## Knowledge Mining - Azure Search and Form Recognizer
 
 [BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services]
 
 [BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI](https://formdemoux.azurewebsites.net/)
 
-[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 1](http://aka.ms/KmSolutions)
+[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry - Link 1](http://aka.ms/KmSolutions)
 
-[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 2](https://aka.ms/seazcs)
+[BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry - Link 2](https://aka.ms/seazcs)
 
 [BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](http://aka.ms/build2019kmdemo)
 
@@ -41,9 +45,9 @@
 
 [BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/trojenguri/LaligaBot)
 
-[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services 1](https://github.com/Azure/mmlspark)
+[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services - Link 1](https://github.com/Azure/mmlspark)
 
-[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services 2](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
+[BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services - Link 2](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 [BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
 
@@ -52,7 +56,3 @@
 [BRK4001 Your Brand, Your Assistant - How to build your own voice-first Virtual Assistant]
 
 [BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer]
-
-[BRK2003 Designing AI Responsibly 1](https://github.com/microsoft/interpret)
-
-[BRK2003 Designing AI Responsibly 2](https://github.com/microsoft/seal-demo)
