@@ -6,7 +6,7 @@
 
 ## Machine Learning - Azure Machine Learning service
 
-[BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/microsoft/)
+[BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/Microsoft/MLOps)
 
 [BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning](https://github.com/microsoft/)
 
