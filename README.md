@@ -30,7 +30,7 @@
 
 [BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 2](https://aka.ms/seazcs)
 
-[BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](https://github.com/liamca/build2019aidemos)
+[BRK3002 Try this one weird AI trick on your data.  Turn any data into structured knowledge using the new Knowledge Mining capabilities of the Azure AI platform](http://aka.ms/build2019kmdemo)
 
 
 ## Azure Cognitive Services and Azure Bot Service 
