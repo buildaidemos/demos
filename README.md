@@ -2,7 +2,7 @@
 
 ## Azure AI Keynote
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization](https://github.com/microsoft/)
+[BRK2006 Azure AI: Powering AI for every developer and every organization](https://github.com/trojenguri/LaligaBot)
 
 ## Machine Learning - Azure Machine Learning service
 
@@ -12,21 +12,21 @@
 
 [BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
 
-[BRK3010 Managing your ML lifecycle with Azure Databricks and Azure ML](https://github.com/microsoft/)
+[BRK3010 Managing your ML lifecycle with Azure Databricks and Azure ML]
 
 [BRK3011 Welcome to the world of Machine Learning with ML.NET 1.0](https://github.com/dotnet/machinelearning-samples)
 
-[BRK3012: Open Neural Network Exchange (ONNX) in the enterprise: how Microsoft scales ML across the world and across devices](https://github.com/microsoft/)
+[BRK3012: Open Neural Network Exchange (ONNX) in the enterprise: how Microsoft scales ML across the world and across devices]
 
-[BRK3013 How to build enterprise ready ML: Privacy and Security best practices, in the cloud and on the edge](https://github.com/microsoft/)
+[BRK3013 How to build enterprise ready ML: Privacy and Security best practices, in the cloud and on the edge]
 
 [BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
 
 ## Knowledge Mining - Azure Search and Form Recognizer
 
-[BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services](https://github.com/microsoft/)
+[BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services]
 
-[BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI](https://github.com/microsoft/)
+[BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI]
 
 [BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 1](aka.ms/KmSolutions)
 
@@ -45,11 +45,11 @@
 
 [BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
 
-[BRK3006 What’s new in Speech Services and how to utilize them to build speech-enabled scenarios and solutions](https://github.com/microsoft/)
+[BRK3006 What’s new in Speech Services and how to utilize them to build speech-enabled scenarios and solutions]
 
-[BRK4001 Your Brand, Your Assistant - How to build your own voice-first Virtual Assistant](https://github.com/microsoft/)
+[BRK4001 Your Brand, Your Assistant - How to build your own voice-first Virtual Assistant]
 
-[BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer](https://github.com/microsoft/)
+[BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer]
 
 [BRK2003 Designing AI Responsibly 1](https://github.com/microsoft/interpret)
 
