@@ -8,7 +8,7 @@
 
 [BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/Microsoft/MLOps)
 
-[BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning](https://github.com/microsoft/)
+[BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning]
 
 [BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
 
