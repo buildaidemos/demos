@@ -33,7 +33,7 @@
 
 ## Azure Cognitive Services and Azure Bot Service 
 
-[BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/microsoft/)
+[BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/trojenguri/LaligaBot)
 
 [BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services](https://github.com/microsoft/)
 
