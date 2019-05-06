@@ -4,7 +4,7 @@
 
 [BRK2006 Azure AI: Powering AI for every developer and every organization - Link 1](https://github.com/trojenguri/LaligaBot)
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 2]
+[BRK2006 Azure AI: Powering AI for every developer and every organization - Link 2](https://github.com/buildaidemos/demos/tree/master/walgreens-boots-demo)
 
 ## Machine Learning - Azure Machine Learning service
 
