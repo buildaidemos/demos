@@ -2,7 +2,9 @@
 
 ## Azure AI Keynote
 
-[BRK2006 Azure AI: Powering AI for every developer and every organization](https://github.com/trojenguri/LaligaBot)
+[BRK2006 Azure AI: Powering AI for every developer and every organization 1](https://github.com/trojenguri/LaligaBot)
+
+[BRK2006 Azure AI: Powering AI for every developer and every organization 2]
 
 ## Machine Learning - Azure Machine Learning service
 
