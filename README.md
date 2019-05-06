@@ -28,7 +28,7 @@
 
 [BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services]
 
-[BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI]
+[BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI](https://formdemoux.azurewebsites.net/)
 
 [BRK3001 Unlock Knowledge Mining on your domain: build custom skills to tailor content understanding to your industry 1](http://aka.ms/KmSolutions)
 
