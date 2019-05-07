@@ -40,3 +40,8 @@
 [BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services - Link 2](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 
 [BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and on Edge](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
+
+[BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer - Link 1](https://github.com/Azure-Samples/cognitive-services-personalizer-samples)
+
+[BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer - Link 2](https://github.com/Azure-Samples/cognitive-services-personalizer-samples/tree/master/demos/PersonalizerDemo)
+
