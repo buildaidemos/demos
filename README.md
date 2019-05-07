@@ -33,7 +33,9 @@
 
 ## AI apps and agents - Azure Cognitive Services and Azure Bot Service 
 
-[BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story](https://github.com/trojenguri/LaligaBot)
+[BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story - Link 1](https://github.com/trojenguri/LaligaBot)
+
+[BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story - Link 2](https://github.com/microsoft/ailab/tree/master/GoogleAssistantConnector)
 
 [BRK3004 How to build enterprise ready, scalable AI solutions using Azure Cognitive Services - Link 1](https://github.com/Azure/mmlspark)
 
