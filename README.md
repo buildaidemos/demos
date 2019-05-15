@@ -1,4 +1,4 @@
-# Microsoft Build 2019 - AI Track demo resources
+# Microsoft Build 2019 - AI Track recordings and demo resources
 
 ## Azure AI Keynote
 
