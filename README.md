@@ -18,17 +18,37 @@ BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps
 
 [Demo code](https://github.com/Microsoft/MLOps)
 
+BRK2005 Want to *actually* do machine learning? Wrangle data, build models, and deploy them with Azure Machine Learning
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76974?source=sessions#top-anchor)
+
+BRK3008 Build “zero code” machine learning models with visual workflow capabilities in Azure Machine Learning service
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76972?source=sessions#top-anchor)
+
 BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML
 
 [Recording](https://mybuild.techcommunity.microsoft.com/sessions/76975?source=sessions#top-anchor) 
 
 [Demo code](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
 
+BRK3010 Managing your ML lifecycle with Azure Databricks and Azure ML
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76976?source=sessions#top-anchor)
+
 BRK3011 Welcome to the world of Machine Learning with ML.NET 1.0
 
 [Recording](https://mybuild.techcommunity.microsoft.com/sessions/76977?source=sessions#top-anchor)
 
 [Demo code](https://github.com/dotnet/machinelearning-samples)
+
+BRK3012 Open Neural Network Exchange (ONNX) in the enterprise: how Microsoft scales ML across the world and across devices
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76978?source=sessions#top-anchor)
+
+BRK3013 How to build enterprise ready ML: Privacy and Security best practices, in the cloud and on the edge
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76979?source=sessions#top-anchor)
 
 BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code
 
@@ -45,6 +65,10 @@ BRK2003 Designing AI Responsibly
 [Demo code 2](https://github.com/microsoft/seal-demo)
 
 ## Knowledge Mining - Azure Search and Form Recognizer
+
+BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76961?source=sessions#top-anchor)
 
 BRK2002 Announcing Form Recognizer: Create real value in your business processes by automating extraction of text, key value pairs and tables from forms, and easily customizing state-of-the-art AI
 
@@ -73,7 +97,7 @@ BRK3003 How to use Azure Conversational AI to scale your business for the next g
 
 [Recording](https://mybuild.techcommunity.microsoft.com/sessions/76965?source=sessions#top-anchor)
 
-[Demo code ](https://github.com/trojenguri/LaligaBot)
+[Demo code 1](https://github.com/trojenguri/LaligaBot)
 
 [Demo code 2](https://github.com/microsoft/ailab/tree/master/GoogleAssistantConnector)
 
@@ -90,6 +114,10 @@ BRK3005 5 industries that are getting disrupted by Computer Vision on Cloud and 
 [Recording](https://mybuild.techcommunity.microsoft.com/sessions/76967?source=sessions#top-anchor)
 
 [Demo code](https://github.com/CarlosP-MS/Cognitive-Services-Vision-Solution-Templates)
+
+BRK3006 What’s new in Speech Services and how to utilize them to build speech-enabled scenarios and solutions
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76968?source=sessions#top-anchor)
 
 BRK3007 Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer
 
