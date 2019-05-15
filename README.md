@@ -12,17 +12,37 @@ BRK2006 Azure AI: Powering AI for every developer and every organization
 
 ## Machine Learning - Azure Machine Learning service
 
-[BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps](https://github.com/Microsoft/MLOps)
+BRK2004 Breaking the Wall between Data Scientists and App Developers with MLOps
 
-[BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76973?source=sessions#top-anchor)
 
-[BRK3011 Welcome to the world of Machine Learning with ML.NET 1.0](https://github.com/dotnet/machinelearning-samples)
+[Demo code](https://github.com/Microsoft/MLOps)
 
-[BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code](https://github.com/Microsoft/connect-petdetector)
+BRK3009 From Zero to AI Hero–Automatically generate ML models using Azure Machine Learning service, Automated ML
 
-[BRK2003 Designing AI Responsibly - Link 1](https://github.com/microsoft/interpret)
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76975?source=sessions#top-anchor) 
 
-[BRK2003 Designing AI Responsibly - Link 2](https://github.com/microsoft/seal-demo)
+[Demo code](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build)
+
+BRK3011 Welcome to the world of Machine Learning with ML.NET 1.0
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76977?source=sessions#top-anchor)
+
+[Demo code](https://github.com/dotnet/machinelearning-samples)
+
+BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Studio Code
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76981?source=sessions#top-anchor)
+
+[Demo code](https://github.com/Microsoft/connect-petdetector)
+
+BRK2003 Designing AI Responsibly
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76971?source=sessions#top-anchor)
+
+[Demo code 1](https://github.com/microsoft/interpret)
+
+[Demo code 2](https://github.com/microsoft/seal-demo)
 
 ## Knowledge Mining - Azure Search and Form Recognizer
 
