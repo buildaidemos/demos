@@ -56,14 +56,6 @@ BRK3014 Build an AI-powered Pet Detector with Python, TensorFlow, and Visual Stu
 
 [Demo code](https://github.com/Microsoft/connect-petdetector)
 
-BRK2003 Designing AI Responsibly
-
-[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76971?source=sessions#top-anchor)
-
-[Demo code 1](https://github.com/microsoft/interpret)
-
-[Demo code 2](https://github.com/microsoft/seal-demo)
-
 ## Knowledge Mining - Azure Search and Form Recognizer
 
 BRK2001 Introducing AI-driven content understanding with Cognitive Search and Cognitive Services
@@ -92,6 +84,14 @@ BRK3002 Try this one weird AI trick on your data.  Turn any data into structured
 
 
 ## AI apps and agents - Azure Cognitive Services and Azure Bot Service 
+
+BRK2003 Designing AI Responsibly
+
+[Recording](https://mybuild.techcommunity.microsoft.com/sessions/76971?source=sessions#top-anchor)
+
+[Demo code 1](https://github.com/microsoft/interpret)
+
+[Demo code 2](https://github.com/microsoft/seal-demo)
 
 BRK3003 How to use Azure Conversational AI to scale your business for the next generation- A deep dive into La Liga’s story
 
